@@ -17,4 +17,5 @@ This is really ***very*** important text.
     ![me](/profile.png.jpg)
 
 3. Close the file.
+   
 :blush:
