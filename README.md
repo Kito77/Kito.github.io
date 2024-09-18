@@ -14,7 +14,7 @@ This is really ***very*** important text.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![me](/assets/profile.png.jpg)
+    ![me](/profile.png.jpg)
 
 3. Close the file.
 :blush:
