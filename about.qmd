@@ -3,7 +3,7 @@ title: "Kito"
 about:
   id: template-area
   template: jolla
-  image: 20240917_115225.jpg
+  image: profile.png.jpg
   links:
     - icon: twitter
       text: twitter
