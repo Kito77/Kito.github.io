@@ -4,14 +4,16 @@ project:
 website:
   site-url: https://archaeothommy.github.io/
   repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
-  favicon: favicon.png
-  title: "Thomas Rose"
+  favicon: profile.png.jpg
+  title: "Kito"
   navbar:
     left:
       - text: "My research"
         href: index.qmd
       - text: "About me"
         href: about.qmd
+      - text: "Report"
+        href: assets/report.qmd
 
 format:
   html:
