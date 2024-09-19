@@ -2,4 +2,3 @@ matplotlib
 pandas
 jupyter
 numpy
-nbformat
