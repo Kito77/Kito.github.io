@@ -57,7 +57,13 @@ The most common command to create a uniform distribution of random numbers in R 
 By default, `runif()` samples the range from 0 to 1: 
 
 ``` {python}
-file_path = ("https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/Galapagos%20Islands.csv")
+file_path = "https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/Galapagos%20Islands.csv"
+import pandas as pd
+df = pd.read_csv(file_path)
+
+import matplotlib.pyplot as plt
+plt.plot(df['Mg'], df['Si'])
+plt.show()
 
 
 
