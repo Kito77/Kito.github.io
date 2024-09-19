@@ -1,7 +1,7 @@
 ---
-title: "Random report"
+title: "Report of living in Berlin"
 author: 
-  - name: Jane Doe
+  - name: Katja Ebermann
     orcid: 0000-0001-2345-6789
     corresponding: true
     email: Jane.Doe@example.org
@@ -56,7 +56,8 @@ The most common command to create a uniform distribution of random numbers in R 
 
 By default, `runif()` samples the range from 0 to 1: 
 
-``` {r}
+``` {python}
+file_path = 
 
 runif(1)
 
